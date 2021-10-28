@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinjianWu
-- 👀 I’m interested in mathematics, data analytics and building my own little programs
-- 🌱 I’m currently learning how machines learn
+- 👀 I’m skilled in mathematics, statistics and building my own little programs
+- 🌱 I’m currently developing machine learning -> NLP expertise 
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You know where I am
 
